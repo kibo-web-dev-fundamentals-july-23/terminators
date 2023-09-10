@@ -261,6 +261,9 @@ footer p, footer .copyright-logo {
     justify-content:flex-start;
     flex-wrap: wrap;
 }
+.teammates a{
+    text-decoration: none;
+}
 .profile-card{
     margin-left:100px;
     border-radius: 20px;
